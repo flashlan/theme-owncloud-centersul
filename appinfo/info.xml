@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <info>
-	<id>theme-example</id>
-	<name>Example ownCloud Theme</name>
+	<id>theme-centersul</id>
+	<name>CenterSul ownCloud Theme</name>
 	<description>This App provides the example ownCloud theme.</description>
 	<licence>AGPL</licence>
-	<author>Philipp Schaffrath</author>
+	<author>Everton Kozloski</author>
 	<version>1.0.0</version>
 	<types>
 		<theme/>
